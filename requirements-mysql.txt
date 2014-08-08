@@ -1,2 +1,2 @@
 -r requirements-base.txt
-MySQL-python==1.2.3
+/opt/apps/RatticWeb/build/src/MySQL-python-1.2.5.tar.gz
